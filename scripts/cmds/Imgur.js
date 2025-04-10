@@ -5,7 +5,7 @@ module.exports = {
  name: "imgur",
  aliases: ["imgur2"],
  version: "2.1.0",
- author: "ArYAN",
+ author: "Nirob",
  countDown: 5,
  role: 0,
  shortDescription: {
